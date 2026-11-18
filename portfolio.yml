@@ -3,3 +3,4 @@ summary: "Práticas e trabalhos da disciplina de Inteligência Computacional: kN
 category: ml
 stack: [Python, pandas, scikit-learn, XGBoost, NumPy, TensorFlow, PyTorch]
 status: completed
+# top: 1 a 5 (posição no Top 5 do portfólio; sem valor, fora do Top 5)
