@@ -1,0 +1,5 @@
+title: "Aprendizado de Máquina"
+summary: "Práticas e trabalhos da disciplina de Inteligência Computacional: kNN, árvores, redes neurais e CNNs, com dois trabalhos em competições Kaggle."
+category: ml
+stack: [Python, pandas, scikit-learn, XGBoost, NumPy, TensorFlow, PyTorch]
+status: completed

@@ -1,0 +1,25 @@
+# Dados (baixar das fontes indicadas em cada README)
+*.csv
+*.zip
+*.parquet
+imgs/
+data/
+tensorflow_datasets/
+
+# Modelos treinados
+*.pth
+*.pt
+*.h5
+*.keras
+*.pkl
+
+# Ambiente e temporários
+.venv/
+venv/
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
